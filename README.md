@@ -25,6 +25,7 @@ The exercises cover the fundamental ideas of structured programming, including:
 - Iterative control structures (`for`, `while`, `do-while`)
 - Function creation and usage
 - Working with arrays and matrices
+- Recursion
 - String manipulation
 - Algorithmic problem solving
 
